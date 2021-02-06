@@ -6,7 +6,7 @@ This app is intended to be a microservice run on, and accessed by, a local netwo
 
 This app will probably need https and CORS if extended out to broader users.
 
-## Installing
+## Setup
 
 * Run `npm install` to install dependencies
 * Copy `auth.json.dist` into the root directory without the .dist.
